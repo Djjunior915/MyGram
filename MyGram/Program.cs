@@ -16,6 +16,7 @@ namespace MyGram
             Console.WriteLine("The value if my first property is: " + post.PostId);
             Console.WriteLine("The value if my second property is: " + post.Post);
 
+            //line
         }
 
     }
