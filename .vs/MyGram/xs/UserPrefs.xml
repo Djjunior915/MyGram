@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{4ABA61C0-79A8-4CEF-8297-3B2BC856054A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyGram/Program.cs">
+    <Files>
+      <File FileName="MyGram/Program.cs" Line="11" Column="9" />
+      <File FileName="MyGram/MyClasses/Comments.cs" Line="1" Column="1" />
+      <File FileName="MyGram/MyClasses/Images.cs" Line="1" Column="1" />
+      <File FileName="MyGram/MyClasses/Posts.cs" Line="1" Column="1" />
+      <File FileName="MyGram/MyClasses/Roles.cs" Line="1" Column="1" />
+      <File FileName="MyGram/MyClasses/Users.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyGram" expanded="True">
+            <Node name="MyGram" expanded="True">
+              <Node name="MyClasses" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MyGram PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
